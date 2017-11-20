@@ -1,0 +1,1 @@
+var degreCelsius=Number(prompt("entrez la valeur en celsius"));
